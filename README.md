@@ -10,7 +10,7 @@ _Guess Who?_ is a two-player board game that teaches basic reasoning skills. The
 Instead of asking the original yes-no questions about features pertaining to the character, children are given clues which are displayed one by one above the game board on the child’s large external monitor.
 
 ## How to play?
-In order to be suitable for pre-literate younger children as well as older literate children, each clue is represented with a short one- or two-word label and a picture. Three different modes have been created: training, solo and multiplayer. The figure below depicted the menu window that appears when you launch the game. 
+In order to be suitable for pre-literate younger children as well as older literate children, each clue is represented with a short one- or two-word label and a picture. Three different modes have been created: training, solo and multiplayer. The figure below depicted the menu window that appears when we launch the game. 
 
 ![menu](https://github.com/jubnr/GuessWho-Game/assets/91159278/929fb783-1fa4-4b96-91e9-b1efcb2b2acc)
 
